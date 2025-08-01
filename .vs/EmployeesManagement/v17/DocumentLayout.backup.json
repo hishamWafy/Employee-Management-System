@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet Projects\\EmployeeManagement_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{518EAD5C-3CFF-4740-B008-79A964B4B9B6}|LinkDev_IKEA_PL\\Manage.PL.csproj|d:\\dotnet projects\\employeemanagement_solution\\linkdev_ikea_pl\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518EAD5C-3CFF-4740-B008-79A964B4B9B6}|LinkDev_IKEA_PL\\Manage.PL.csproj|solutionrelative:linkdev_ikea_pl\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518EAD5C-3CFF-4740-B008-79A964B4B9B6}|LinkDev_IKEA_PL\\Manage.PL.csproj|d:\\dotnet projects\\employeemanagement_solution\\linkdev_ikea_pl\\hepers\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518EAD5C-3CFF-4740-B008-79A964B4B9B6}|LinkDev_IKEA_PL\\Manage.PL.csproj|solutionrelative:linkdev_ikea_pl\\hepers\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7989B8EE-E2EA-446F-A7BA-928B7C369DA6}|IKEA.DAL\\Manage.DAL.csproj|d:\\dotnet projects\\employeemanagement_solution\\ikea.dal\\entities\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7989B8EE-E2EA-446F-A7BA-928B7C369DA6}|IKEA.DAL\\Manage.DAL.csproj|solutionrelative:ikea.dal\\entities\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518EAD5C-3CFF-4740-B008-79A964B4B9B6}|LinkDev_IKEA_PL\\Manage.PL.csproj|d:\\dotnet projects\\employeemanagement_solution\\linkdev_ikea_pl\\viewmodels\\identity\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518EAD5C-3CFF-4740-B008-79A964B4B9B6}|LinkDev_IKEA_PL\\Manage.PL.csproj|solutionrelative:linkdev_ikea_pl\\viewmodels\\identity\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518EAD5C-3CFF-4740-B008-79A964B4B9B6}|LinkDev_IKEA_PL\\Manage.PL.csproj|d:\\dotnet projects\\employeemanagement_solution\\linkdev_ikea_pl\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518EAD5C-3CFF-4740-B008-79A964B4B9B6}|LinkDev_IKEA_PL\\Manage.PL.csproj|solutionrelative:linkdev_ikea_pl\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518EAD5C-3CFF-4740-B008-79A964B4B9B6}|LinkDev_IKEA_PL\\Manage.PL.csproj|d:\\dotnet projects\\employeemanagement_solution\\linkdev_ikea_pl\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518EAD5C-3CFF-4740-B008-79A964B4B9B6}|LinkDev_IKEA_PL\\Manage.PL.csproj|solutionrelative:linkdev_ikea_pl\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518EAD5C-3CFF-4740-B008-79A964B4B9B6}|LinkDev_IKEA_PL\\Manage.PL.csproj|d:\\dotnet projects\\employeemanagement_solution\\linkdev_ikea_pl\\viewmodels\\identity\\userinroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518EAD5C-3CFF-4740-B008-79A964B4B9B6}|LinkDev_IKEA_PL\\Manage.PL.csproj|solutionrelative:linkdev_ikea_pl\\viewmodels\\identity\\userinroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518EAD5C-3CFF-4740-B008-79A964B4B9B6}|LinkDev_IKEA_PL\\Manage.PL.csproj|d:\\dotnet projects\\employeemanagement_solution\\linkdev_ikea_pl\\viewmodels\\identity\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518EAD5C-3CFF-4740-B008-79A964B4B9B6}|LinkDev_IKEA_PL\\Manage.PL.csproj|solutionrelative:linkdev_ikea_pl\\viewmodels\\identity\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518EAD5C-3CFF-4740-B008-79A964B4B9B6}|LinkDev_IKEA_PL\\Manage.PL.csproj|d:\\dotnet projects\\employeemanagement_solution\\linkdev_ikea_pl\\viewmodels\\identity\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518EAD5C-3CFF-4740-B008-79A964B4B9B6}|LinkDev_IKEA_PL\\Manage.PL.csproj|solutionrelative:linkdev_ikea_pl\\viewmodels\\identity\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518EAD5C-3CFF-4740-B008-79A964B4B9B6}|LinkDev_IKEA_PL\\Manage.PL.csproj|d:\\dotnet projects\\employeemanagement_solution\\linkdev_ikea_pl\\viewmodels\\identity\\forgetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518EAD5C-3CFF-4740-B008-79A964B4B9B6}|LinkDev_IKEA_PL\\Manage.PL.csproj|solutionrelative:linkdev_ikea_pl\\viewmodels\\identity\\forgetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518EAD5C-3CFF-4740-B008-79A964B4B9B6}|LinkDev_IKEA_PL\\Manage.PL.csproj|d:\\dotnet projects\\employeemanagement_solution\\linkdev_ikea_pl\\viewmodels\\employees\\employeeeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518EAD5C-3CFF-4740-B008-79A964B4B9B6}|LinkDev_IKEA_PL\\Manage.PL.csproj|solutionrelative:linkdev_ikea_pl\\viewmodels\\employees\\employeeeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518EAD5C-3CFF-4740-B008-79A964B4B9B6}|LinkDev_IKEA_PL\\Manage.PL.csproj|d:\\dotnet projects\\employeemanagement_solution\\linkdev_ikea_pl\\hepers\\documentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518EAD5C-3CFF-4740-B008-79A964B4B9B6}|LinkDev_IKEA_PL\\Manage.PL.csproj|solutionrelative:linkdev_ikea_pl\\hepers\\documentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Email.cs",
+              "DocumentMoniker": "D:\\DotNet Projects\\EmployeeManagement_Solution\\IKEA.DAL\\Entities\\Email.cs",
+              "RelativeDocumentMoniker": "IKEA.DAL\\Entities\\Email.cs",
+              "ToolTip": "D:\\DotNet Projects\\EmployeeManagement_Solution\\IKEA.DAL\\Entities\\Email.cs",
+              "RelativeToolTip": "IKEA.DAL\\Entities\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:15:04.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "D:\\DotNet Projects\\EmployeeManagement_Solution\\LinkDev_IKEA_PL\\ViewModels\\Identity\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "LinkDev_IKEA_PL\\ViewModels\\Identity\\UserViewModel.cs",
+              "ToolTip": "D:\\DotNet Projects\\EmployeeManagement_Solution\\LinkDev_IKEA_PL\\ViewModels\\Identity\\UserViewModel.cs",
+              "RelativeToolTip": "LinkDev_IKEA_PL\\ViewModels\\Identity\\UserViewModel.cs",
+              "ViewState": "AgIAAAcAAAAgmZmZmZkpwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:11:25.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\DotNet Projects\\EmployeeManagement_Solution\\LinkDev_IKEA_PL\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "LinkDev_IKEA_PL\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\DotNet Projects\\EmployeeManagement_Solution\\LinkDev_IKEA_PL\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "LinkDev_IKEA_PL\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAKYAAAAA/8zMzMzyv70AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:23:56.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "D:\\DotNet Projects\\EmployeeManagement_Solution\\LinkDev_IKEA_PL\\Hepers\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "LinkDev_IKEA_PL\\Hepers\\EmailSettings.cs",
+              "ToolTip": "D:\\DotNet Projects\\EmployeeManagement_Solution\\LinkDev_IKEA_PL\\Hepers\\EmailSettings.cs",
+              "RelativeToolTip": "LinkDev_IKEA_PL\\Hepers\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:52:57.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\DotNet Projects\\EmployeeManagement_Solution\\LinkDev_IKEA_PL\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "LinkDev_IKEA_PL\\Mapping\\MappingProfile.cs",
+              "ToolTip": "D:\\DotNet Projects\\EmployeeManagement_Solution\\LinkDev_IKEA_PL\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "LinkDev_IKEA_PL\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAEAAAD4mJmZmZkWwA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:54:04.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\DotNet Projects\\EmployeeManagement_Solution\\LinkDev_IKEA_PL\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LinkDev_IKEA_PL\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\DotNet Projects\\EmployeeManagement_Solution\\LinkDev_IKEA_PL\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LinkDev_IKEA_PL\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAIEAAABwmZmZmVkiwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:48:51.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserInRoleViewModel.cs",
+              "DocumentMoniker": "D:\\DotNet Projects\\EmployeeManagement_Solution\\LinkDev_IKEA_PL\\ViewModels\\Identity\\UserInRoleViewModel.cs",
+              "RelativeDocumentMoniker": "LinkDev_IKEA_PL\\ViewModels\\Identity\\UserInRoleViewModel.cs",
+              "ToolTip": "D:\\DotNet Projects\\EmployeeManagement_Solution\\LinkDev_IKEA_PL\\ViewModels\\Identity\\UserInRoleViewModel.cs",
+              "RelativeToolTip": "LinkDev_IKEA_PL\\ViewModels\\Identity\\UserInRoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:10:37.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResetPasswordViewModel.cs",
+              "DocumentMoniker": "D:\\DotNet Projects\\EmployeeManagement_Solution\\LinkDev_IKEA_PL\\ViewModels\\Identity\\ResetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "LinkDev_IKEA_PL\\ViewModels\\Identity\\ResetPasswordViewModel.cs",
+              "ToolTip": "D:\\DotNet Projects\\EmployeeManagement_Solution\\LinkDev_IKEA_PL\\ViewModels\\Identity\\ResetPasswordViewModel.cs",
+              "RelativeToolTip": "LinkDev_IKEA_PL\\ViewModels\\Identity\\ResetPasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:09:35.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ForgetPasswordViewModel.cs",
+              "DocumentMoniker": "D:\\DotNet Projects\\EmployeeManagement_Solution\\LinkDev_IKEA_PL\\ViewModels\\Identity\\ForgetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "LinkDev_IKEA_PL\\ViewModels\\Identity\\ForgetPasswordViewModel.cs",
+              "ToolTip": "D:\\DotNet Projects\\EmployeeManagement_Solution\\LinkDev_IKEA_PL\\ViewModels\\Identity\\ForgetPasswordViewModel.cs",
+              "RelativeToolTip": "LinkDev_IKEA_PL\\ViewModels\\Identity\\ForgetPasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:07:28.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoleViewModel.cs",
+              "DocumentMoniker": "D:\\DotNet Projects\\EmployeeManagement_Solution\\LinkDev_IKEA_PL\\ViewModels\\Identity\\RoleViewModel.cs",
+              "RelativeDocumentMoniker": "LinkDev_IKEA_PL\\ViewModels\\Identity\\RoleViewModel.cs",
+              "ToolTip": "D:\\DotNet Projects\\EmployeeManagement_Solution\\LinkDev_IKEA_PL\\ViewModels\\Identity\\RoleViewModel.cs",
+              "RelativeToolTip": "LinkDev_IKEA_PL\\ViewModels\\Identity\\RoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:30:09.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeEditViewModel.cs",
+              "DocumentMoniker": "D:\\DotNet Projects\\EmployeeManagement_Solution\\LinkDev_IKEA_PL\\ViewModels\\Employees\\EmployeeEditViewModel.cs",
+              "RelativeDocumentMoniker": "LinkDev_IKEA_PL\\ViewModels\\Employees\\EmployeeEditViewModel.cs",
+              "ToolTip": "D:\\DotNet Projects\\EmployeeManagement_Solution\\LinkDev_IKEA_PL\\ViewModels\\Employees\\EmployeeEditViewModel.cs",
+              "RelativeToolTip": "LinkDev_IKEA_PL\\ViewModels\\Employees\\EmployeeEditViewModel.cs",
+              "ViewState": "AgIAABsAAAAAkJmZmZnJvw8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:55:19.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DocumentSettings.cs",
+              "DocumentMoniker": "D:\\DotNet Projects\\EmployeeManagement_Solution\\LinkDev_IKEA_PL\\Hepers\\DocumentSettings.cs",
+              "RelativeDocumentMoniker": "LinkDev_IKEA_PL\\Hepers\\DocumentSettings.cs",
+              "ToolTip": "D:\\DotNet Projects\\EmployeeManagement_Solution\\LinkDev_IKEA_PL\\Hepers\\DocumentSettings.cs",
+              "RelativeToolTip": "LinkDev_IKEA_PL\\Hepers\\DocumentSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:51:10.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

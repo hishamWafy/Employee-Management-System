@@ -1,0 +1,109 @@
+﻿@model DepartmentDetailsDTO
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<div class="card shadow-sm border-0 rounded-3">
+    <div class="card-body">
+        <h4 class="card-title text-center mb-4">Department Details</h4>
+
+        <!-- Tabs Navigation -->
+        <ul class="nav nav-tabs" id="departmentTabs" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="general-tab" data-bs-toggle="tab" data-bs-target="#general" type="button" role="tab">
+                    General
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="administration-tab" data-bs-toggle="tab" data-bs-target="#administration" type="button" role="tab">
+                    Administration
+                </button>
+            </li>
+        </ul>
+
+        <!-- Tabs Content -->
+        <div class="tab-content mt-3" id="departmentTabsContent">
+            <!-- General Tab -->
+            <div class="tab-pane fade show active" id="general" role="tabpanel">
+                <div class="form-group mb-3">
+                    <label class="form-label fw-bold">Code:</label>
+                    <div class="input-group">
+                        <span class="input-group-text"><i class="fas fa-barcode"></i></span>
+                        <input asp-for="Code" class="form-control" readonly />
+                    </div>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="form-label fw-bold">Name:</label>
+                    <div class="input-group">
+                        <span class="input-group-text"><i class="fas fa-building"></i></span>
+                        <input asp-for="Name" class="form-control" readonly />
+                    </div>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="form-label fw-bold">Description:</label>
+                    <textarea asp-for="Description" class="form-control" rows="3" readonly></textarea>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="form-label fw-bold">Create Date:</label>
+                    <input asp-for="CreateDate" class="form-control" type="date" readonly />
+                </div>
+            </div>
+
+            <!-- Administration Tab -->
+            <div class="tab-pane fade" id="administration" role="tabpanel">
+                <div class="form-group mb-3">
+                    <label class="form-label fw-bold">Created At:</label>
+                    <input asp-for="CreatedAt" class="form-control" type="date" readonly />
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="form-label fw-bold">Created By:</label>
+                    <input asp-for="CreatedBy" class="form-control" readonly />
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="form-label fw-bold">Last Modified By:</label>
+                    <input asp-for="LastModifiedBy" class="form-control" readonly />
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="form-label fw-bold">Last Modified At:</label>
+                    <input asp-for="LastModifiyAt" class="form-control" type="date" readonly />
+                </div>
+            </div>
+        </div>
+
+        @if ((ViewData["Title"] as string) == "Details")
+        {
+
+            <div class="mt-4">
+                <a asp-action="Edit" asp-route-id="@ViewBag.Id" class="btn btn-success">Edit</a> |
+                <a asp-action="Index" class="btn btn-secondary">Back To List</a>
+            </div>
+
+        }
+        else
+        {
+
+            <form asp-action="Delete" asp-route-id="@ViewBag.Id" class="mt-4">
+                <input type="submit" value="Delete" class="btn btn-danger" /> |
+                <a asp-action="Delete" class="btn btn-secondary">Back To List</a>
+
+            </form>
+        }
+
+        @* <!-- Action Buttons -->
+        <div class="mt-3 d-flex justify-content-between">
+            <a asp-action="Index" class="btn btn-secondary">
+                <i class="fas fa-arrow-left"></i> Back to List
+            </a>
+            <a asp-action="Edit" asp-route-id="id" class="btn btn-primary">
+                <i class="fas fa-edit"></i> Edit
+            </a>
+            <br />
+            <br />
+        </div> *@
+    </div>
+</div>

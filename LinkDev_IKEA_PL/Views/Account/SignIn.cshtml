@@ -1,0 +1,52 @@
+﻿@model SignInViewModel
+@{
+    ViewData["Title"] = "SignIn";
+    Layout = "~/Views/Shared/_AuthLayout.cshtml";
+}
+
+
+
+<div class="main-w3layouts wrapper">
+	<h1>Sign In</h1>
+	<div class="main-agileinfo">
+		<div class="agileits-top">
+			<form asp-action="SignIn" method="post">
+                <div  asp-validation-summary="ModelOnly" ></div>
+                   
+				<input class="text email" type="email" asp-for="Email" placeholder="Email" required />
+				<input class="text mb-2" type="password" asp-for="Password" placeholder="Password" required />
+				<div class="wthree-text">
+					<label class="anim">
+						<input asp-for="RememberMe" type="checkbox" class="checkbox" />
+						<span>Remember Me</span>
+					</label>
+					<div class="clear"></div>
+				</div>
+				<input type="submit" value="SIGN IN" />
+			</form>
+			<p>Don't have an account? <a asp-controller="Account" asp-action="SignUp">Register Now!</a></p>
+		</div>
+	</div>
+	<div class="colorlibcopy-agile">
+		<p>© 2018 Colorlib SignIn Form. All rights reserved | Design by <a href="https://colorlib.com/" target="_blank">Colorlib</a></p>
+	</div>
+	<ul class="colorlib-bubbles">
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+	</ul>
+</div>
+
+
+
+@section ValidationScripts {
+	<partial name="_ValidationScriptsPartial" />
+}
+

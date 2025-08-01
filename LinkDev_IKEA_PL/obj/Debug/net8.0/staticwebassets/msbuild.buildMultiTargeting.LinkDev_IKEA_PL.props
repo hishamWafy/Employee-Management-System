@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LinkDev_IKEA_PL.props" />
+</Project>

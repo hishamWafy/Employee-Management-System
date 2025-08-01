@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manage.PL", "LinkDev_IKEA_PL\Manage.PL.csproj", "{518EAD5C-3CFF-4740-B008-79A964B4B9B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manage.DAL", "IKEA.DAL\Manage.DAL.csproj", "{7989B8EE-E2EA-446F-A7BA-928B7C369DA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manage.BLL", "IKEA.BLL\Manage.BLL.csproj", "{54198EFF-64E8-4482-81F8-EE84E93EA54F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{518EAD5C-3CFF-4740-B008-79A964B4B9B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518EAD5C-3CFF-4740-B008-79A964B4B9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{518EAD5C-3CFF-4740-B008-79A964B4B9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{518EAD5C-3CFF-4740-B008-79A964B4B9B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7989B8EE-E2EA-446F-A7BA-928B7C369DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7989B8EE-E2EA-446F-A7BA-928B7C369DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7989B8EE-E2EA-446F-A7BA-928B7C369DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7989B8EE-E2EA-446F-A7BA-928B7C369DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54198EFF-64E8-4482-81F8-EE84E93EA54F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54198EFF-64E8-4482-81F8-EE84E93EA54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54198EFF-64E8-4482-81F8-EE84E93EA54F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54198EFF-64E8-4482-81F8-EE84E93EA54F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E38411A-6821-4106-8A1D-FE5472BCB044}
+	EndGlobalSection
+EndGlobal

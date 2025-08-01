@@ -1,0 +1,15 @@
+﻿ @model EmployeeEditViewModel
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1 class="mb-4 text-center">Create New Employee</h1>
+
+
+
+  <partial name="Partial/Create_Edit_EmployeePartial" model="Model" />
+
+@section ValidationScript {
+
+    <partial name="_ValidationScriptsPartial"  />
+}

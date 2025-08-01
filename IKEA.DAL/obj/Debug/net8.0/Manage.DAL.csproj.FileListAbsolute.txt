@@ -1,0 +1,12 @@
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.DAL\bin\Debug\net8.0\Manage.DAL.deps.json
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.DAL\bin\Debug\net8.0\Manage.DAL.dll
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.DAL\bin\Debug\net8.0\Manage.DAL.pdb
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.DAL\obj\Debug\net8.0\Manage.DAL.csproj.AssemblyReference.cache
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.DAL\obj\Debug\net8.0\Manage.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.DAL\obj\Debug\net8.0\Manage.DAL.AssemblyInfoInputs.cache
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.DAL\obj\Debug\net8.0\Manage.DAL.AssemblyInfo.cs
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.DAL\obj\Debug\net8.0\Manage.DAL.csproj.CoreCompileInputs.cache
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.DAL\obj\Debug\net8.0\Manage.DAL.dll
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.DAL\obj\Debug\net8.0\refint\Manage.DAL.dll
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.DAL\obj\Debug\net8.0\Manage.DAL.pdb
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.DAL\obj\Debug\net8.0\ref\Manage.DAL.dll

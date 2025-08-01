@@ -1,0 +1,15 @@
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.BLL\bin\Debug\net8.0\Manage.BLL.deps.json
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.BLL\bin\Debug\net8.0\Manage.BLL.dll
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.BLL\bin\Debug\net8.0\Manage.BLL.pdb
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.BLL\bin\Debug\net8.0\Manage.DAL.dll
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.BLL\bin\Debug\net8.0\Manage.DAL.pdb
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.BLL\obj\Debug\net8.0\Manage.BLL.csproj.AssemblyReference.cache
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.BLL\obj\Debug\net8.0\Manage.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.BLL\obj\Debug\net8.0\Manage.BLL.AssemblyInfoInputs.cache
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.BLL\obj\Debug\net8.0\Manage.BLL.AssemblyInfo.cs
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.BLL\obj\Debug\net8.0\Manage.BLL.csproj.CoreCompileInputs.cache
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.BLL\obj\Debug\net8.0\Manage.BLL.csproj.Up2Date
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.BLL\obj\Debug\net8.0\Manage.BLL.dll
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.BLL\obj\Debug\net8.0\refint\Manage.BLL.dll
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.BLL\obj\Debug\net8.0\Manage.BLL.pdb
+D:\DotNet Projects\EmployeeManagement_Solution\IKEA.BLL\obj\Debug\net8.0\ref\Manage.BLL.dll

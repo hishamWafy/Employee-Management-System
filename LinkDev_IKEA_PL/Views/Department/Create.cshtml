@@ -1,0 +1,19 @@
+﻿@model CreatedDepartmentDTO
+@{
+    ViewData["Title"] = "Create";
+    ViewBag.Action = "Create";
+}
+
+<div class="roe justify-content-center align-items-center flex-column">
+
+<h1 class="mb-4 text-center">Create New Department</h1>
+
+    <partial name="Partial/Create_EditDepartmentPartial" />
+
+</div>
+
+
+@section ValidationScript {
+
+    <partial name="_ValidationScriptsPartial" />
+}
